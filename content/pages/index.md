@@ -54,7 +54,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/gallery-3.jpg
+      url: /images/about.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
