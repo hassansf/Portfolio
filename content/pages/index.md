@@ -14,12 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a developer, digital artist, consultant and aN EXPERT IN CYBER
+      SECURITY.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      As an experienced IT specialist, I offer a wide range of services, from
+      network management and cybersecurity to software development and technical
+      support. My expertise lies in designing and implementing efficient IT
+      systems, ensuring optimal performance, and safeguarding data integrity.
+      With a focus on innovation and problem-solving, I help businesses leverage
+      technology to drive growth and efficiency. Whether you're looking to
+      upgrade your infrastructure, troubleshoot issues, or enhance digital
+      security, I'm here to provide tailored, reliable solutions.
     styles:
       self:
         height: auto
@@ -84,7 +89,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
